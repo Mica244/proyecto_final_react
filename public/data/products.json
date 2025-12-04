@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Top doble tira",
+    "price": 4500,
+    "category": "Top",
+    "description": "Top doble tira color bordo.",
+    "imageUrl": "/images/top1.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Top doble tira",
+    "price": 4500,
+    "category": "Top",
+    "description": "Top doble tira color verde.",
+    "imageUrl": "/images/top2.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Top doble tira",
+    "category": "Top",
+    "price": 1200,
+    "description": "Top doble tira color violeta.",
+    "imageUrl": "/images/top3.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Short importado",
+    "category": "Short",
+    "price": 1200,
+    "description": "Short importado color verde agua.",
+    "imageUrl": "/images/short1.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Short importado",
+    "category": "Short",
+    "price": 1200,
+    "description": "Short importado color gris.",
+    "imageUrl": "/images/short2.jpeg"
+  },
+    {
+    "id": "6",
+    "name": "Short importado",
+    "category": "Short",
+    "price": 1200,
+    "description": "Short importado color fucsia.",
+    "imageUrl": "/images/short3.jpeg"
+  }
+]
